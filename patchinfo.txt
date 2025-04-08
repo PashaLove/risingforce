@@ -61,4 +61,3 @@ DataTable\ru-ru\WORLDMAPDATA.DAT 09cb484f5dd2a80ed9f5be94c74eb861feec0e4e
 DataTable\SkillForce.edf 4aff0aa685d38aded2f2ff11adf14c2c759c37a1
 DataTable\Store.edf 4419faaf560a7cb67d977bf5987234d68c1884fe
 DataTable\ui.lang 0ef6a6e82c9c8777295666d6d96eb6f8e87e3df3
-Текстовый документ.txt da39a3ee5e6b4b0d3255bfef95601890afd80709
